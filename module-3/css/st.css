@@ -1,0 +1,60 @@
+/********** Base styles **********/
+body {
+      font-size: 16px;
+      color: #fff;
+      background-color: #A64AC9;
+      
+}
+/*HEADER **/
+#header-nav {
+      background-color:white ; /*#FAE026; #eee2dc;*/
+      border: 0;
+      border-radius: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* fish empire name */
+  font-family: 'Lora', serif;
+  color: #A64AC9;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #A64AC9;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.4em;
+}
+
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #A64AC9;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #A64AC9;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
