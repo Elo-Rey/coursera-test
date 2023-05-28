@@ -10,7 +10,7 @@
 
  var speakWord = "Good Bye";
 
- helloSpeaker.speak = function(){
+ byeSpeaker.speak = function(){
 
   console.log(speakWord + " " + name);
  }
