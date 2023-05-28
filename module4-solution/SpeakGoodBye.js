@@ -5,7 +5,7 @@
 // See Lecture 52, part 2
 
 (function (window) {
-   var byeSpeaker.name = names
+   
    var byeSpeaker = {};
    var speakWord = "Good Bye";
 
