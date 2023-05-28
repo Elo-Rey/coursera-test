@@ -7,7 +7,8 @@
 (function (window) {
 
    var byeSpeaker = {};
-
+    
+   console.log ("hello world")
    var speakWord = "Good Bye";
 
    byeSpeaker.speak = function(){
