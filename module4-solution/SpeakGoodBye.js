@@ -8,7 +8,7 @@
 
    var byeSpeaker = {};
     
-   console.log ("hello world")
+   
    var speakWord = "Good Bye";
 
    byeSpeaker.speak = function(){
@@ -19,6 +19,7 @@
 
 })(window);
 
+console.log('hello world')
 
 // STEP 7: Create an object, called 'byeSpeaker' to which you will attach
 // the "speak" method and which you will expose to the global context
